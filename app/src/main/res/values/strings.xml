@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Winny Assistant</string>
+    <string name="edit_text_hint">Type your message here</string>
+    <string name="send_button_text">Send</string>
+</resources>
